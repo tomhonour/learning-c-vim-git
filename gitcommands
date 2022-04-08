@@ -1,3 +1,5 @@
+git config --global user.email "x"
+git config --global user.name "x"
 git clone x
 git pull x
 git status
