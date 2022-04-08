@@ -4,5 +4,6 @@ git clone x
 git pull x
 git status
 git add
+git rm
 git commit -m ""
 git push
