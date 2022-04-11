@@ -14,11 +14,9 @@ main()
 		else if (c == ' ' && count == 1) {
 			;
 		}
-		else if (c != ' ' && count == 1) {
+		else if (c != ' ' && count == 0 || 1) {
 			count = 0;
 			putchar(c);
 		}
-		else
-			putchar(c);
 	}
 }
