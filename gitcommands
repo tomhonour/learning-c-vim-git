@@ -1,6 +1,7 @@
 git config --global user.email "x"
 git config --global user.name "x"
 git clone x
+git clone -b branchname x
 git pull x
 git status
 git add
