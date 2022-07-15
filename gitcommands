@@ -8,3 +8,4 @@ git add
 git rm
 git commit -m ""
 git push
+hashes in commit messages link to issues
